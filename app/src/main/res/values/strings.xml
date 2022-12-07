@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MyCalculator</string>
+    <string name="add">add</string>
+    <string name="subtract">subtract</string>
+    <string name="multiple">multiple</string>
+    <string name="divide">divide</string>
+    <string name="calculate">calculate</string>
+    <string name="you_answer_will_be_displayed_here">You answer will be displayed here</string>
+    <string name="android_is_the_best">Android is the best</string>
+    <string name="enter_the_first_number">Enter the first number</string>
+    <string name="enter_the_second_number">Enter the second number</string>
 </resources>
